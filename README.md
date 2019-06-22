@@ -1,1 +1,1 @@
-# Intro_ML_scikit_learn
+# Series: Intro to Machine Learning with Scikit-Learn
