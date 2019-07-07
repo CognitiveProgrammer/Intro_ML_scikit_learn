@@ -7,7 +7,7 @@ This series is covered in the following chapters
 - #### [Chapter - 0 : Introduction (A.I., M.L & Mathematics)](https://github.com/CodesBay/Intro_ML_scikit_learn/tree/master/Chapter-0)
 - #### [Chapter - 1 : The need of M.L.](https://github.com/CodesBay/Intro_ML_scikit_learn/tree/master/Chapter-1)
 - #### [Chapter - 2 : Machine Learning Algorithms - _Supervised, UnSupervised & Reinforcement_](https://github.com/CodesBay/Intro_ML_scikit_learn/tree/master/Chapter-1)
-- #### [Chapter - 3 : Scikit-Learn - Introduction]()
+- #### [Chapter - 3 : Scikit-Learn - Introduction](https://github.com/CodesBay/Intro_ML_scikit_learn/tree/master/Chapter-3)
 - #### [Chapter - 4 : Machine Learning Prerequisite - NumPy and Matplotlib]()
 - #### [Chapter - 5 : Iris: The Hello World ML Dataset from Scikit-Learn](TBD) Coming Soon..
 - #### [Chapter - 6 : Supervised Learning - Linear Regression](TBD) Coming Soon..
