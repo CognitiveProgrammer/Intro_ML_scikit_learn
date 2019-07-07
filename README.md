@@ -4,7 +4,7 @@ This repository contains the Jupyter Notebooks for the video series of above men
 
 This series is covered in the following chapters
 
-- #### [chapter - 0 : Introduction (A.I., M.L & Mathematics)]()
+- #### [chapter - 0 : Introduction (A.I., M.L & Mathematics)](https://github.com/CodesBay/Intro_ML_scikit_learn/tree/master/Chapter-0)
 - #### [chapter - 1 : The need of M.L.]()
 - #### [chapter - 2 : Machine Learning Algorithms - _Supervised, UnSupervised & Reinforcement_]()
 - #### [chapter - 3 : Scikit-Learn - Introduction]()
