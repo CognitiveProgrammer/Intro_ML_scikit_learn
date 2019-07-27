@@ -6,5 +6,7 @@
     
 Please find the chapter vlog @ https://youtu.be/pfWuN2AmKBc
       
-####  [Chapter -4.2] - Introdiction to Matplotlib  [Coming Soon...]
+####  [Chapter -4.2] - Introdiction to Matplotlib PyPlot
+
+Please find the chapter vlog @ https://youtu.be/dSHhfjMJYxY 
 
